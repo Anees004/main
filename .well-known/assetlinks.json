@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.unify.rooms",
+            "package_name": "com.example.swipe",
             "sha256_cert_fingerprints": [
                 "F8:6D:36:33:51:79:9C:D7:7E:56:B7:00:A6:8F:F5:A6:09:A3:1B:CC:4A:C7:A7:90:7F:A3:B0:AF:BF:4A:21:87",
                 "91:2A:AF:53:6D:70:01:D9:95:39:05:9B:70:CC:23:D8:E8:18:FD:4A:5A:CC:31:F8:DF:DD:E7:57:C6:FB:E0:4B",
